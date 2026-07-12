@@ -65,9 +65,12 @@ Launched in 2011 as one of the early Magento-based fashion e-commerce deployment
 
 **Key contributions:**
 
-- Delivered a fully custom Magento theme (`lamode` / `lamode_dark`) from scratch, replacing the default storefront with a branded visual identity that set the store apart and strengthened customer trust
-- Architected and populated a product catalog spanning thousands of SKUs across clothing, bags, accessories, and footwear with category navigation, sizing guides, and seasonal lookbooks — giving the business a scalable catalog foundation
-- Integrated PagSeguro and PayPal checkout flows for the Brazilian market alongside a standalone editorial blog ("IN"), turning the storefront into both a conversion-optimised shop and an owned media channel
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Custom branded storefront** — a fully custom theme built from scratch, replacing the default storefront with a branded visual identity that set the store apart and strengthened customer trust
+- **Scalable product catalog** — thousands of SKUs across clothing, bags, accessories, and footwear with category navigation, sizing guides, and seasonal lookbooks, giving the business a catalog foundation built to grow
+- **Localized checkout and owned media** — PagSeguro and PayPal checkout for the Brazilian market alongside a standalone editorial blog ("IN"), turning the storefront into both a conversion-optimised shop and an owned media channel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
